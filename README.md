@@ -1,6 +1,6 @@
 # Healthcare Insights Using Excel
 
-This project showcases data analysis and dashboard creation in Microsoft Excel using a healthcare dataset. The goal was to practice data cleaning, analysis, and visualization to generate insights for decision-making.
+This project showcases data analysis and dashboard creation in Microsoft Excel using a healthcare dataset. The goal was to data cleaning, analysis, and visualization to generate insights for decision-making.
 
 ![image alt ](https://github.com/jeremie-tiongco/HealthcareProjectUsingExcel/blob/main/Healthcare%20Insights%20Dashboard.JPG?raw=true)
 
